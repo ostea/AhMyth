@@ -1,0 +1,4 @@
+# ninja log v5
+0	552	0	CMakeFiles/vperf.dir/src/main/cpp/main.c.o	8e6797acee60a2b8
+3	564	0	CMakeFiles/vperf.dir/src/main/cpp/native-lib.cpp.o	e361e7e7aadf785f
+564	819	0	vperf	d62b954bec5dbc81

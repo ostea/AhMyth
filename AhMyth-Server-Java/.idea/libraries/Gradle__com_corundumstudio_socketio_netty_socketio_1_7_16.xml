@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.corundumstudio.socketio:netty-socketio:1.7.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.corundumstudio.socketio/netty-socketio/1.7.16/70aac1823e2d5fe2cbb8d54005c97f9f1c6535e4/netty-socketio-1.7.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.corundumstudio.socketio/netty-socketio/1.7.16/9fa4a15c38acf5f39412f6ecd03e543621738b6d/netty-socketio-1.7.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

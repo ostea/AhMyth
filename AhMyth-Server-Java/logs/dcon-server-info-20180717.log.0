@@ -1,0 +1,4 @@
+2018-07-17 21:14:33.244 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-07-17 21:14:34.116 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-07-17 21:15:24.482 [nioEventLoopGroup-3-6] INFO  c.e.socketio.server.ConnectionServer -receive scc: ec2c57511018
+2018-07-17 21:17:21.513 [nioEventLoopGroup-3-6] INFO  c.e.socketio.server.ConnectionServer -receive file: ec2c57511018 b8.pcap size: 1323637 bytes

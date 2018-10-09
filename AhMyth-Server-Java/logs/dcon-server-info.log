@@ -1,0 +1,112 @@
+2018-10-09 10:54:50.178 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 10:54:50.439 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 10:55:59.567 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 10:55:59.858 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 10:59:32.706 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: ec2c98413948
+2018-10-09 15:57:10.236 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 15:57:10.525 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 16:01:57.252 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:01:57.540 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 16:02:18.906 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:02:19.252 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:02:40.156 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:02:40.480 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:03:00.046 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:03:00.368 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:05:43.851 [pool-2-thread-1] ERROR c.e.socketio.server.ConnectionServer -invalid handshakedata did is empty!
+2018-10-09 16:08:39.343 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:08:39.645 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:10:14.447 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:10:14.752 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:10:38.804 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:10:39.101 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:12:04.850 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:12:05.157 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:15:22.841 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:15:23.166 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:16:27.847 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:16:28.142 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:21:47.065 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:21:47.352 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:22:28.258 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:22:28.545 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:26:03.480 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:26:03.768 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:27:05.610 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:27:05.948 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:28:34.448 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:28:34.852 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:28:45.769 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:28:46.204 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:30:17.288 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:30:17.597 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:31:08.825 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:31:09.134 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:38:01.289 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:38:01.616 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 16:50:05.402 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 16:50:05.736 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 16:58:30.949 [nioEventLoopGroup-3-6] ERROR c.e.socketio.server.ConnectionServer -invalid handshakedata did is empty!
+2018-10-09 17:02:56.556 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:02:56.864 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 17:06:27.812 [nioEventLoopGroup-3-6] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:07:34.517 [nioEventLoopGroup-3-6] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:09:15.845 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:09:16.159 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 17:09:56.987 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:10:23.003 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:11:19.055 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:12:10.334 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:12:41.761 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:17:13.637 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:17:13.942 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:17:25.390 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:17:25.702 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:18:59.311 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:18:59.636 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:19:10.197 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:19:10.494 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:19:17.867 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:19:18.160 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:19:30.887 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:19:31.193 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:19:44.301 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:19:44.613 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:24:03.927 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:24:04.328 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 17:24:47.932 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:27:07.696 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:27:08.181 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 17:28:44.588 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:29:19.074 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:29:19.401 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 17:29:53.334 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:30:15.349 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:30:23.964 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:30:29.926 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:31:21.313 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:31:21.606 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:32:26.802 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:32:27.093 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:38:18.392 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:38:18.693 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 17:42:29.234 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 17:42:30.765 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 17:43:34.553 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:45:08.682 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:45:22.996 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 17:46:15.771 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:49:02.320 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 17:49:48.119 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 18:05:42.050 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 18:05:42.386 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 18:14:07.370 [nioEventLoopGroup-3-9] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 18:14:44.036 [nioEventLoopGroup-3-9] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 18:15:13.134 [nioEventLoopGroup-3-9] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 18:17:07.565 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 18:17:07.906 [nioEventLoopGroup-2-1] ERROR c.c.socketio.SocketIOServer -SocketIO server start failed at port: 8080!
+2018-10-09 18:41:38.186 [main] INFO  c.c.socketio.SocketIOServer -Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+2018-10-09 18:41:38.498 [nioEventLoopGroup-2-1] INFO  c.c.socketio.SocketIOServer -SocketIO server started at port: 8080
+2018-10-09 18:42:09.376 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive scc: 123456879
+2018-10-09 18:42:29.666 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879
+2018-10-09 18:43:21.265 [nioEventLoopGroup-3-2] INFO  c.e.socketio.server.ConnectionServer -receive src: 123456879

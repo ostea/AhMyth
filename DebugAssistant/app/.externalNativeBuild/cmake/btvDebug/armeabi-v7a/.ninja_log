@@ -1,0 +1,8 @@
+# ninja log v5
+3	113	0	CMakeFiles/vperf.dir/src/main/cpp/main.c.o	50462e1beb55628d
+1	257	0	CMakeFiles/vperf.dir/src/main/cpp/native-lib.cpp.o	dd5d121530fdca3c
+257	548	0	vperf	7c43d0c81ac524eb
+1	213	0	build.ninja	49d254dc548c2916
+1	165	0	CMakeFiles/vperf.dir/src/main/cpp/main.c.o	50462e1beb55628d
+6	357	0	CMakeFiles/vperf.dir/src/main/cpp/native-lib.cpp.o	dd5d121530fdca3c
+357	507	0	vperf	7c43d0c81ac524eb
